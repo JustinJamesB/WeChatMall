@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.example.demo.dao.ApiadminGoodsMapper">
+    <select id="getallGoods" resultType="com.example.demo.entity.GoodsVo">
+        select * from  `shop_goods`
+    </select>
+
+<!--    <insert id="InsertGoods"   parameterType="com.example.demo.entity.adminGoods">-->
+<!--        insert into  `shop_goods` () values-->
+<!--    </insert>-->
+
+    <insert id="InsertGoods" parameterType="com.example.demo.entity.adminGoods" useGeneratedKeys="true" keyProperty="goods_id">
+<!--        <selectKey  order="AFTER" keyProperty="goods_id">-->
+<!--            SELECT LAST_INSERT_ID()-->
+<!--        </selectKey>-->
+        INSERT INTO shop_goods(goods_name,category_id,spec_type,content,goods_img_url,counter_price,stock_num,is_new,c_img)values(#{goods_name},#{category_id},#{spec_type},#{content},#{goods_img_url},#{counter_price},#{stock_num},#{is_new},#{c_img});
+    </insert>
+
+    <insert id="InsertImage">
+        insert into shop_goods_image(goods_id,b_img) values (#{goods_id},#{b_img})
+    </insert>
+
+    <delete id="DeleteGoods" >
+        delete from  shop_goods where goods_id=#{goods_id};
+    </delete>
+
+    <delete id="DeleteImage">
+         delete from  shop_goods_image where goods_id=#{goods_id};
+    </delete>
+
+    
+</mapper>

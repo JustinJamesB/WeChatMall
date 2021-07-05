@@ -1,0 +1,19 @@
+<view class="container">
+  <!-- <view class="help cont-box b-f">
+    <view>
+      <text class="h4">{{title}}</text>
+    </view>
+    <view>
+      <text class="p">{{content}}</text>
+    </view>
+  </view> -->
+  <!-- 简介 -->
+<view class="cu-card article">
+  <view class='cu-item shadow'>
+    <view class="title">
+      <text class="text-cut">掌农宝简介</text>
+    </view>
+    <view class="content">为了响应国家政策，推动乡村振兴脱贫，掌农宝为本团队通过分析农产品发展现状，深入用户访谈，打造一款针对农村贫困县农副产品助销的电商助农农副产品助销服务平台，以帮助农民脱贫、增收。</view>
+  </view>
+</view>
+</view>

@@ -1,0 +1,10 @@
+<!-- 导航栏 -->
+<cpn header="{{headerItem}}"
+     choose1="{{chooseItem1}}"
+     choose2="{{chooseItem2}}"
+     img="{{dataIma}}"
+     img1="{{dataIma1}}"
+     dataItem="{{magicItem}}"
+     dataItem1="{{magicItem1}}"
+     bind:deleteDone="handleDone"></cpn>
+

@@ -1,0 +1,13 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    name: shop
+    url: jdbc:mysql://47.115.151.23:3306/shop?useSSL=false&allowPublicKeyRetrieval=true&useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC
+
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
+mybatis:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl

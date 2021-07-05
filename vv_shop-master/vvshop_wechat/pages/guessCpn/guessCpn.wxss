@@ -1,0 +1,84 @@
+body{
+  margin:0;
+  padding: 0;
+}
+
+.guess-header{
+  display: flex;
+  margin-top: 10rpx;
+}
+
+.guess-header-item{
+  flex:1;
+  text-align: center;
+  transition: all 0.3s;
+}
+
+.header-active{
+  color: red;
+}
+
+.header-active text{
+  border-bottom: 1px red solid;
+  padding-bottom: 8rpx;
+}
+
+.guess-choose{
+  margin: 15rpx;
+  text-align: center;
+  margin-top: 50rpx;
+
+}
+
+.guess-choose-picker text{
+  border:2px solid pink;
+  padding: 10rpx;
+  border-radius: 20rpx;
+  
+}
+
+.show{
+  text-align: center;
+}
+
+.display{
+  display: none;
+}
+
+.data-image{
+  margin: 10rpx;
+  text-align: center;
+  margin-top: 32rpx;
+}
+
+.data-image image{
+  width: 100%;
+  
+}
+
+.data-zi{
+  margin-top: 20rpx;
+  text-indent: 2em;
+  font-size: 40rpx;
+  font-family: '楷体';
+  margin-left: 7rpx;
+}
+
+.bottom{
+  margin:0 100rpx 100rpx 0; 
+  display: flex;
+}
+
+.bottom1{
+  position: absolute;
+  margin:0 10rpx 10rpx 0; 
+  width: 100rpx;
+  height: 100rpx;
+  bottom:0;
+  right: 0;
+}
+
+.bottom1 image{
+  width: 100rpx;
+  height: 100rpx;
+}

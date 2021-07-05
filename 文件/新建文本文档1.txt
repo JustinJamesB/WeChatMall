@@ -1,0 +1,745 @@
+菜花
+craftName=%E8%8F%9C%E8%8A%B1&craftIndex=13514&eudName=%E4%BD%9B%E5%B1%B1%E4%B8%AD%E5%8D%97%E5%86%9C%E4%BA%A7%E5%93%81%E4%BA%A4%E6%98%93%E4%B8%AD%E5%BF%83&queryDateType=4&timeRange=2019-01-03+~+2019-07-26&pageNo=2
+不追加
+date=2020-06-26, predicted=3.488705, expected=3.500000
+date=2020-06-29, predicted=3.488755, expected=3.500000
+date=2020-07-01, predicted=3.488804, expected=3.500000
+date=2020-07-02, predicted=3.488854, expected=3.500000
+date=2020-07-03, predicted=3.488902, expected=3.500000
+date=2020-07-04, predicted=3.488951, expected=3.500000
+date=2020-07-06, predicted=3.488998, expected=3.500000
+date=2020-07-07, predicted=3.489046, expected=3.500000
+date=2020-07-08, predicted=3.489093, expected=3.500000
+date=2020-07-09, predicted=3.489140, expected=3.500000
+date=2020-07-10, predicted=3.489186, expected=3.500000
+date=2020-07-11, predicted=3.489232, expected=3.500000
+date=2020-07-13, predicted=3.489277, expected=3.500000
+date=2020-07-14, predicted=3.489322, expected=3.500000
+date=2020-07-15, predicted=3.489367, expected=3.500000
+date=2020-07-16, predicted=3.489411, expected=3.500000
+date=2020-07-17, predicted=3.489455, expected=3.500000
+date=2020-07-18, predicted=3.489499, expected=3.500000
+date=2020-07-20, predicted=3.489542, expected=3.500000
+date=2020-07-21, predicted=3.489585, expected=3.500000
+date=2020-07-22, predicted=3.489628, expected=3.500000
+date=2020-07-23, predicted=3.489670, expected=3.500000
+date=2020-07-24, predicted=3.489712, expected=3.500000
+date=2020-07-27, predicted=3.489753, expected=3.500000
+date=2020-07-28, predicted=3.489795, expected=3.500000
+date=2020-07-29, predicted=3.489835, expected=3.500000
+date=2020-07-30, predicted=3.489876, expected=3.500000
+date=2020-07-31, predicted=3.489916, expected=3.500000
+date=2020-08-15, predicted=3.489956, expected=6.000000
+date=2020-08-24, predicted=5.889174, expected=2.500000
+date=2020-08-27, predicted=4.227164, expected=5.000000
+date=2020-08-28, predicted=3.238717, expected=5.000000
+date=2020-08-31, predicted=4.517777, expected=5.000000
+date=2020-09-01, predicted=4.979214, expected=5.000000
+date=2020-09-02, predicted=5.037018, expected=5.000000
+date=2020-09-03, predicted=5.138292, expected=5.000000
+date=2020-09-04, predicted=4.994243, expected=5.000000
+date=2020-09-05, predicted=4.994265, expected=5.000000
+date=2020-09-07, predicted=4.994286, expected=5.000000
+date=2020-09-08, predicted=4.994308, expected=5.000000
+date=2020-09-09, predicted=4.994329, expected=5.000000
+date=2020-09-10, predicted=4.994350, expected=5.000000
+date=2020-09-12, predicted=4.994371, expected=5.000000
+date=2020-09-13, predicted=4.994392, expected=5.000000
+date=2020-09-14, predicted=4.994413, expected=5.000000
+date=2020-09-15, predicted=4.994433, expected=5.000000
+date=2020-09-16, predicted=4.994454, expected=5.000000
+date=2020-09-17, predicted=4.994474, expected=5.000000
+date=2020-09-18, predicted=4.994494, expected=5.000000
+date=2020-09-19, predicted=4.994514, expected=5.000000
+date=2020-09-20, predicted=4.994534, expected=5.000000
+date=2020-09-21, predicted=4.994553, expected=5.000000
+date=2020-09-22, predicted=4.994573, expected=5.000000
+date=2020-09-23, predicted=4.994592, expected=5.000000
+date=2020-09-24, predicted=4.994612, expected=5.000000
+date=2020-09-26, predicted=4.994631, expected=5.000000
+date=2020-09-28, predicted=4.994650, expected=5.000000
+date=2020-09-30, predicted=4.994668, expected=5.000000
+date=2020-10-06, predicted=4.994687, expected=5.000000
+date=2020-10-13, predicted=4.994706, expected=5.000000
+date=2020-10-14, predicted=4.994724, expected=5.000000
+date=2020-10-15, predicted=4.994743, expected=5.000000
+date=2020-10-16, predicted=4.994761, expected=5.000000
+date=2020-10-17, predicted=4.994779, expected=5.000000
+date=2020-10-20, predicted=4.994797, expected=5.000000
+date=2020-10-21, predicted=4.994815, expected=5.000000
+date=2020-10-22, predicted=4.994832, expected=5.000000
+date=2020-10-23, predicted=4.994850, expected=5.000000
+date=2020-10-24, predicted=4.994867, expected=5.000000
+date=2020-10-26, predicted=4.994885, expected=5.000000
+date=2020-10-28, predicted=4.994902, expected=5.000000
+date=2020-10-30, predicted=4.994919, expected=5.000000
+date=2020-10-31, predicted=4.994936, expected=5.000000
+date=2020-11-02, predicted=4.994953, expected=5.000000
+date=2020-11-03, predicted=4.994970, expected=5.000000
+date=2020-11-04, predicted=4.994986, expected=5.000000
+date=2020-11-06, predicted=4.995003, expected=5.000000
+date=2020-11-07, predicted=4.995019, expected=5.000000
+date=2020-11-09, predicted=4.995035, expected=5.000000
+date=2020-11-10, predicted=4.995052, expected=5.000000
+date=2020-11-11, predicted=4.995068, expected=5.000000
+date=2020-11-12, predicted=4.995084, expected=5.000000
+date=2020-11-13, predicted=4.995100, expected=4.900000
+date=2020-11-16, predicted=4.948946, expected=4.900000
+date=2020-11-17, predicted=4.901956, expected=4.900000
+date=2020-11-18, predicted=4.887520, expected=4.900000
+date=2020-11-20, predicted=4.886280, expected=4.900000
+date=2020-11-21, predicted=4.890226, expected=4.900000
+date=2020-11-26, predicted=4.894744, expected=4.900000
+date=2020-11-27, predicted=4.894761, expected=4.900000
+date=2020-11-28, predicted=4.894777, expected=4.900000
+date=2020-11-30, predicted=4.894794, expected=4.900000
+date=2020-12-01, predicted=4.894810, expected=4.900000
+date=2020-12-02, predicted=4.894826, expected=4.900000
+date=2020-12-03, predicted=4.894842, expected=4.900000
+date=2020-12-04, predicted=4.894858, expected=4.900000
+date=2020-12-05, predicted=4.894874, expected=4.900000
+date=2020-12-07, predicted=4.894890, expected=4.900000
+date=2020-12-08, predicted=4.894906, expected=4.900000
+date=2020-12-09, predicted=4.894921, expected=4.900000
+date=2020-12-10, predicted=4.894937, expected=4.900000
+date=2020-12-11, predicted=4.894952, expected=4.900000
+date=2020-12-12, predicted=4.894968, expected=4.900000
+date=2020-12-14, predicted=4.894983, expected=4.900000
+date=2020-12-15, predicted=4.894998, expected=4.900000
+date=2020-12-16, predicted=4.895013, expected=4.900000
+date=2020-12-17, predicted=4.895028, expected=4.900000
+date=2020-12-18, predicted=4.895043, expected=4.700000
+date=2020-12-21, predicted=4.802758, expected=4.700000
+date=2020-12-22, predicted=4.708737, expected=4.700000
+date=2020-12-23, predicted=4.679910, expected=4.700000
+date=2020-12-24, predicted=4.677445, expected=4.700000
+date=2020-12-25, predicted=4.685313, expected=4.700000
+date=2020-12-26, predicted=4.694300, expected=4.700000
+date=2020-12-28, predicted=4.694317, expected=4.700000
+date=2020-12-29, predicted=4.694334, expected=4.700000
+date=2020-12-30, predicted=4.694350, expected=4.700000
+date=2020-12-31, predicted=4.694367, expected=4.600000
+predicted=4.648170
+predicted=4.644845
+predicted=4.653422
+predicted=4.642562
+predicted=4.643408
+predicted=4.642169
+predicted=4.636254
+predicted=4.636835
+predicted=4.633338
+predicted=4.630718
+predicted=4.628977
+predicted=4.626162
+predicted=4.623935
+predicted=4.621654
+predicted=4.619147
+predicted=4.616896
+predicted=4.614513
+predicted=4.612144
+predicted=4.609825
+predicted=4.607462
+predicted=4.605123
+predicted=4.602788
+predicted=4.600444
+predicted=4.598113
+predicted=4.595781
+predicted=4.593450
+predicted=4.591125
+predicted=4.588800
+predicted=4.586478
+predicted=4.584159
+predicted=4.581842
+
+
+追加
+
+date=2020-06-26, predicted=3.488659, expected=3.500000
+date=2020-06-29, predicted=3.488710, expected=3.500000
+date=2020-07-01, predicted=3.488760, expected=3.500000
+date=2020-07-02, predicted=3.488809, expected=3.500000
+date=2020-07-03, predicted=3.488858, expected=3.500000
+date=2020-07-04, predicted=3.488907, expected=3.500000
+date=2020-07-06, predicted=3.488955, expected=3.500000
+date=2020-07-07, predicted=3.489003, expected=3.500000
+date=2020-07-08, predicted=3.489050, expected=3.500000
+date=2020-07-09, predicted=3.489097, expected=3.500000
+date=2020-07-10, predicted=3.489144, expected=3.500000
+date=2020-07-11, predicted=3.489190, expected=3.500000
+date=2020-07-13, predicted=3.489236, expected=3.500000
+date=2020-07-14, predicted=3.489281, expected=3.500000
+date=2020-07-15, predicted=3.489327, expected=3.500000
+date=2020-07-16, predicted=3.489371, expected=3.500000
+date=2020-07-17, predicted=3.489415, expected=3.500000
+date=2020-07-18, predicted=3.489459, expected=3.500000
+date=2020-07-20, predicted=3.489503, expected=3.500000
+date=2020-07-21, predicted=3.489546, expected=3.500000
+date=2020-07-22, predicted=3.489589, expected=3.500000
+date=2020-07-23, predicted=3.489632, expected=3.500000
+date=2020-07-24, predicted=3.489674, expected=3.500000
+date=2020-07-27, predicted=3.489716, expected=3.500000
+date=2020-07-28, predicted=3.489757, expected=3.500000
+date=2020-07-29, predicted=3.489798, expected=3.500000
+date=2020-07-30, predicted=3.489839, expected=3.500000
+date=2020-07-31, predicted=3.489879, expected=3.500000
+date=2020-08-15, predicted=3.489920, expected=6.000000
+date=2020-08-24, predicted=5.889176, expected=2.500000
+date=2020-08-27, predicted=4.227237, expected=5.000000
+date=2020-08-28, predicted=3.235675, expected=5.000000
+date=2020-08-31, predicted=4.516778, expected=5.000000
+date=2020-09-01, predicted=4.978172, expected=5.000000
+date=2020-09-02, predicted=5.036780, expected=5.000000
+date=2020-09-03, predicted=5.138573, expected=5.000000
+date=2020-09-04, predicted=4.994357, expected=5.000000
+date=2020-09-05, predicted=4.994379, expected=5.000000
+date=2020-09-07, predicted=4.994400, expected=5.000000
+date=2020-09-08, predicted=4.994421, expected=5.000000
+date=2020-09-09, predicted=4.994442, expected=5.000000
+date=2020-09-10, predicted=4.994463, expected=5.000000
+date=2020-09-12, predicted=4.994484, expected=5.000000
+date=2020-09-13, predicted=4.994504, expected=5.000000
+date=2020-09-14, predicted=4.994525, expected=5.000000
+date=2020-09-15, predicted=4.994545, expected=5.000000
+date=2020-09-16, predicted=4.994565, expected=5.000000
+date=2020-09-17, predicted=4.994585, expected=5.000000
+date=2020-09-18, predicted=4.994605, expected=5.000000
+date=2020-09-19, predicted=4.994624, expected=5.000000
+date=2020-09-20, predicted=4.994644, expected=5.000000
+date=2020-09-21, predicted=4.994663, expected=5.000000
+date=2020-09-22, predicted=4.994682, expected=5.000000
+date=2020-09-23, predicted=4.994701, expected=5.000000
+date=2020-09-24, predicted=4.994720, expected=5.000000
+date=2020-09-26, predicted=4.994739, expected=5.000000
+date=2020-09-28, predicted=4.994758, expected=5.000000
+date=2020-09-30, predicted=4.994776, expected=5.000000
+date=2020-10-06, predicted=4.994794, expected=5.000000
+date=2020-10-13, predicted=4.994813, expected=5.000000
+date=2020-10-14, predicted=4.994831, expected=5.000000
+date=2020-10-15, predicted=4.994849, expected=5.000000
+date=2020-10-16, predicted=4.994867, expected=5.000000
+date=2020-10-17, predicted=4.994884, expected=5.000000
+date=2020-10-20, predicted=4.994902, expected=5.000000
+date=2020-10-21, predicted=4.994920, expected=5.000000
+date=2020-10-22, predicted=4.994937, expected=5.000000
+date=2020-10-23, predicted=4.994954, expected=5.000000
+date=2020-10-24, predicted=4.994971, expected=5.000000
+date=2020-10-26, predicted=4.994988, expected=5.000000
+date=2020-10-28, predicted=4.995005, expected=5.000000
+date=2020-10-30, predicted=4.995022, expected=5.000000
+date=2020-10-31, predicted=4.995039, expected=5.000000
+date=2020-11-02, predicted=4.995055, expected=5.000000
+date=2020-11-03, predicted=4.995072, expected=5.000000
+date=2020-11-04, predicted=4.995088, expected=5.000000
+date=2020-11-06, predicted=4.995105, expected=5.000000
+date=2020-11-07, predicted=4.995121, expected=5.000000
+date=2020-11-09, predicted=4.995137, expected=5.000000
+date=2020-11-10, predicted=4.995153, expected=5.000000
+date=2020-11-11, predicted=4.995169, expected=5.000000
+date=2020-11-12, predicted=4.995184, expected=5.000000
+date=2020-11-13, predicted=4.995200, expected=4.900000
+date=2020-11-16, predicted=4.949075, expected=4.900000
+date=2020-11-17, predicted=4.902128, expected=4.900000
+date=2020-11-18, predicted=4.887650, expected=4.900000
+date=2020-11-20, predicted=4.886379, expected=4.900000
+date=2020-11-21, predicted=4.890319, expected=4.900000
+date=2020-11-26, predicted=4.894841, expected=4.900000
+date=2020-11-27, predicted=4.894857, expected=4.900000
+date=2020-11-28, predicted=4.894873, expected=4.900000
+date=2020-11-30, predicted=4.894890, expected=4.900000
+date=2020-12-01, predicted=4.894906, expected=4.900000
+date=2020-12-02, predicted=4.894922, expected=4.900000
+date=2020-12-03, predicted=4.894938, expected=4.900000
+date=2020-12-04, predicted=4.894953, expected=4.900000
+date=2020-12-05, predicted=4.894969, expected=4.900000
+date=2020-12-07, predicted=4.894985, expected=4.900000
+date=2020-12-08, predicted=4.895000, expected=4.900000
+date=2020-12-09, predicted=4.895015, expected=4.900000
+date=2020-12-10, predicted=4.895031, expected=4.900000
+date=2020-12-11, predicted=4.895046, expected=4.900000
+date=2020-12-12, predicted=4.895061, expected=4.900000
+date=2020-12-14, predicted=4.895076, expected=4.900000
+date=2020-12-15, predicted=4.895091, expected=4.900000
+date=2020-12-16, predicted=4.895106, expected=4.900000
+date=2020-12-17, predicted=4.895120, expected=4.900000
+date=2020-12-18, predicted=4.895135, expected=4.700000
+date=2020-12-21, predicted=4.802909, expected=4.700000
+date=2020-12-22, predicted=4.708969, expected=4.700000
+date=2020-12-23, predicted=4.680062, expected=4.700000
+date=2020-12-24, predicted=4.677537, expected=4.700000
+date=2020-12-25, predicted=4.685392, expected=4.700000
+date=2020-12-26, predicted=4.694387, expected=4.700000
+date=2020-12-28, predicted=4.694404, expected=4.700000
+date=2020-12-29, predicted=4.694420, expected=4.700000
+date=2020-12-30, predicted=4.694437, expected=4.700000
+date=2020-12-31, predicted=4.694453, expected=4.600000
+Test MSE: 0.185
+
+
+芥菜
+craftName=%E8%8A%A5%E8%8F%9C&craftIndex=13373&eudName=%E4%BD%9B%E5%B1%B1%E4%B8%AD%E5%8D%97%E5%86%9C%E4%BA%A7%E5%93%81%E4%BA%A4%E6%98%93%E4%B8%AD%E5%BF%83&queryDateType=2&timeRange=&pageNo=2
+
+追加
+date=2021-02-27, predicted=3.295882, expected=3.300000
+date=2021-03-01, predicted=3.295989, expected=3.300000
+date=2021-03-02, predicted=3.296090, expected=3.300000
+date=2021-03-03, predicted=3.296186, expected=3.300000
+date=2021-03-04, predicted=3.296277, expected=3.300000
+date=2021-03-05, predicted=3.296364, expected=3.300000
+date=2021-03-06, predicted=3.296447, expected=3.300000
+date=2021-03-08, predicted=3.296526, expected=3.300000
+date=2021-03-09, predicted=3.296602, expected=3.300000
+date=2021-03-10, predicted=3.296674, expected=3.300000
+date=2021-03-11, predicted=3.296744, expected=3.300000
+date=2021-03-12, predicted=3.296810, expected=3.300000
+date=2021-03-13, predicted=3.296874, expected=3.300000
+date=2021-03-15, predicted=3.296935, expected=3.300000
+date=2021-03-16, predicted=3.296994, expected=3.300000
+date=2021-03-17, predicted=3.297051, expected=3.000000
+date=2021-03-18, predicted=3.000446, expected=3.000000
+date=2021-03-19, predicted=2.963608, expected=3.000000
+date=2021-03-20, predicted=2.964668, expected=3.000000
+date=2021-03-23, predicted=2.998619, expected=3.000000
+date=2021-03-24, predicted=2.920935, expected=3.000000
+date=2021-03-25, predicted=2.992276, expected=3.000000
+Test MSE: 0.004
+
+不追加
+
+
+date=2021-02-27, predicted=3.295989, expected=3.300000
+date=2021-03-01, predicted=3.296090, expected=3.300000
+date=2021-03-02, predicted=3.296186, expected=3.300000
+date=2021-03-03, predicted=3.296277, expected=3.300000
+date=2021-03-04, predicted=3.296364, expected=3.300000
+date=2021-03-05, predicted=3.296447, expected=3.300000
+date=2021-03-06, predicted=3.296526, expected=3.300000
+date=2021-03-08, predicted=3.296602, expected=3.300000
+date=2021-03-09, predicted=3.296675, expected=3.300000
+date=2021-03-10, predicted=3.296744, expected=3.300000
+date=2021-03-11, predicted=3.296810, expected=3.300000
+date=2021-03-12, predicted=3.296874, expected=3.300000
+date=2021-03-13, predicted=3.296935, expected=3.300000
+date=2021-03-15, predicted=3.296994, expected=3.300000
+date=2021-03-16, predicted=3.297051, expected=3.300000
+date=2021-03-17, predicted=3.297106, expected=3.000000
+date=2021-03-18, predicted=3.000524, expected=3.000000
+date=2021-03-19, predicted=2.963654, expected=3.000000
+date=2021-03-20, predicted=2.964704, expected=3.000000
+date=2021-03-23, predicted=2.998691, expected=3.000000
+date=2021-03-24, predicted=2.920843, expected=3.000000
+date=2021-03-25, predicted=2.992419, expected=3.000000
+predicted=2.992557
+predicted=2.985152
+predicted=2.984804
+predicted=2.977599
+predicted=2.977376
+predicted=2.969084
+predicted=2.970073
+predicted=2.960759
+predicted=2.962734
+predicted=2.952603
+predicted=2.955535
+predicted=2.944393
+predicted=2.948618
+predicted=2.936157
+predicted=2.941917
+predicted=2.927942
+predicted=2.935411
+predicted=2.919726
+predicted=2.929128
+predicted=2.911482
+predicted=2.923063
+predicted=2.903220
+predicted=2.917184
+predicted=2.894969
+predicted=2.911441
+predicted=2.886775
+predicted=2.905760
+predicted=2.878719
+predicted=2.900028
+predicted=2.870918
+predicted=2.894098
+
+
+羊肉
+craftName=%E7%BE%8A%E8%82%89&craftIndex=13237&eudName=%E4%BD%9B%E5%B1%B1%E4%B8%AD%E5%8D%97%E5%86%9C%E4%BA%A7%E5%93%81%E4%BA%A4%E6%98%93%E4%B8%AD%E5%BF%83&queryDateType=2&timeRange=&pageNo=2
+
+
+不追加
+
+date=2021-03-01, predicted=74.868301, expected=74.600000
+date=2021-03-02, predicted=74.804223, expected=74.600000
+date=2021-03-03, predicted=74.737093, expected=74.600000
+date=2021-03-04, predicted=74.749106, expected=74.600000
+date=2021-03-05, predicted=74.744896, expected=74.600000
+date=2021-03-06, predicted=74.740921, expected=74.600000
+date=2021-03-08, predicted=74.737161, expected=74.600000
+date=2021-03-09, predicted=74.733600, expected=74.600000
+date=2021-03-10, predicted=74.730221, expected=74.500000
+date=2021-03-11, predicted=74.657868, expected=74.400000
+date=2021-03-12, predicted=74.565324, expected=74.400000
+date=2021-03-13, predicted=74.535077, expected=74.400000
+date=2021-03-15, predicted=74.519848, expected=74.400000
+date=2021-03-16, predicted=74.506325, expected=74.400000
+date=2021-03-17, predicted=74.501861, expected=74.400000
+date=2021-03-18, predicted=74.503373, expected=74.400000
+date=2021-03-19, predicted=74.501238, expected=74.400000
+date=2021-03-20, predicted=74.499190, expected=74.200000
+date=2021-03-23, predicted=74.358147, expected=74.200000
+date=2021-03-24, predicted=74.316125, expected=74.200000
+date=2021-03-25, predicted=74.299963, expected=74.100000
+predicted=74.217987
+predicted=74.325288
+predicted=74.308214
+predicted=74.374251
+predicted=74.380936
+predicted=74.441083
+predicted=74.448218
+predicted=74.503338
+predicted=74.517068
+predicted=74.564383
+predicted=74.584612
+predicted=74.626148
+predicted=74.649844
+predicted=74.688192
+predicted=74.713811
+predicted=74.749866
+predicted=74.776865
+predicted=74.811079
+predicted=74.839026
+predicted=74.871869
+predicted=74.900354
+predicted=74.932187
+predicted=74.960946
+predicted=74.991995
+predicted=75.020864
+predicted=75.051283
+predicted=75.080151
+predicted=75.110053
+predicted=75.138841
+predicted=75.168308
+predicted=75.196965
+
+追加
+date=2021-03-01, predicted=74.870817, expected=74.600000
+date=2021-03-02, predicted=74.806644, expected=74.600000
+date=2021-03-03, predicted=74.739241, expected=74.600000
+date=2021-03-04, predicted=74.750606, expected=74.600000
+date=2021-03-05, predicted=74.746255, expected=74.600000
+date=2021-03-06, predicted=74.742153, expected=74.600000
+date=2021-03-08, predicted=74.738279, expected=74.600000
+date=2021-03-09, predicted=74.734613, expected=74.600000
+date=2021-03-10, predicted=74.731139, expected=74.500000
+date=2021-03-11, predicted=74.658614, expected=74.400000
+date=2021-03-12, predicted=74.565918, expected=74.400000
+date=2021-03-13, predicted=74.535608, expected=74.400000
+date=2021-03-15, predicted=74.520335, expected=74.400000
+date=2021-03-16, predicted=74.506775, expected=74.400000
+date=2021-03-17, predicted=74.502251, expected=74.400000
+date=2021-03-18, predicted=74.503703, expected=74.400000
+date=2021-03-19, predicted=74.501525, expected=74.400000
+date=2021-03-20, predicted=74.499437, expected=74.200000
+date=2021-03-23, predicted=74.358260, expected=74.200000
+date=2021-03-24, predicted=74.316202, expected=74.200000
+date=2021-03-25, predicted=74.300015, expected=74.100000
+Test MSE: 0.030
+
+
+鸡蛋
+
+追加
+date=2018-09-19, predicted=10.002314, expected=10.200000
+date=2018-09-20, predicted=10.227231, expected=10.600000
+date=2018-09-21, predicted=10.675030, expected=11.000000
+date=2018-09-22, predicted=11.093259, expected=10.900000
+date=2018-09-23, predicted=10.922214, expected=10.150000
+date=2018-09-24, predicted=10.025148, expected=10.150000
+date=2018-09-25, predicted=10.147647, expected=10.150000
+date=2018-09-26, predicted=10.186657, expected=9.400000
+date=2018-09-27, predicted=9.238313, expected=9.400000
+date=2018-09-28, predicted=9.407413, expected=9.600000
+date=2018-09-29, predicted=9.622115, expected=9.600000
+date=2018-09-30, predicted=9.559581, expected=9.400000
+date=2018-10-01, predicted=9.421646, expected=9.200000
+date=2018-10-02, predicted=9.181611, expected=8.950000
+date=2018-10-03, predicted=8.897041, expected=8.950000
+date=2018-10-04, predicted=8.929299, expected=8.950000
+date=2018-10-05, predicted=8.943890, expected=8.950000
+date=2018-10-06, predicted=8.941659, expected=8.950000
+date=2018-10-07, predicted=8.960678, expected=8.950000
+date=2018-10-08, predicted=8.949282, expected=8.950000
+date=2018-10-09, predicted=8.949284, expected=8.700000
+date=2018-10-10, predicted=8.661658, expected=8.500000
+date=2018-10-11, predicted=8.462359, expected=8.400000
+date=2018-10-12, predicted=8.377003, expected=8.600000
+date=2018-10-13, predicted=8.609921, expected=8.750000
+date=2018-10-14, predicted=8.774143, expected=8.750000
+date=2018-10-15, predicted=8.753213, expected=8.750000
+date=2018-10-16, predicted=8.765671, expected=8.750000
+date=2018-10-17, predicted=8.749530, expected=8.900000
+date=2018-10-18, predicted=8.915943, expected=9.000000
+date=2018-10-19, predicted=9.017548, expected=9.000000
+date=2018-10-20, predicted=9.000654, expected=9.000000
+date=2018-10-21, predicted=9.009020, expected=9.000000
+date=2018-10-22, predicted=8.999971, expected=8.900000
+date=2018-10-23, predicted=8.879513, expected=8.900000
+date=2018-10-24, predicted=8.897432, expected=8.800000
+date=2018-10-25, predicted=8.783818, expected=8.600000
+date=2018-10-26, predicted=8.558887, expected=8.600000
+date=2018-10-27, predicted=8.599209, expected=8.600000
+date=2018-10-28, predicted=8.592256, expected=8.700000
+date=2018-10-29, predicted=8.705559, expected=8.800000
+date=2018-10-30, predicted=8.824743, expected=9.000000
+date=2018-10-31, predicted=9.032605, expected=8.900000
+date=2018-11-01, predicted=8.893121, expected=8.900000
+date=2018-11-02, predicted=8.898162, expected=8.900000
+date=2018-11-03, predicted=8.907674, expected=8.900000
+date=2018-11-04, predicted=8.883818, expected=8.850000
+date=2018-11-05, predicted=8.845886, expected=8.800000
+date=2018-11-06, predicted=8.790211, expected=8.700000
+date=2018-11-07, predicted=8.682340, expected=8.600000
+date=2018-11-08, predicted=8.577886, expected=8.600000
+date=2018-11-09, predicted=8.596100, expected=8.600000
+date=2018-11-10, predicted=8.594851, expected=8.700000
+date=2018-11-11, predicted=8.712745, expected=8.800000
+date=2018-11-12, predicted=8.821275, expected=8.700000
+date=2018-11-13, predicted=8.684331, expected=8.600000
+date=2018-11-14, predicted=8.586549, expected=8.600000
+date=2018-11-15, predicted=8.598860, expected=8.800000
+date=2018-11-16, predicted=8.820449, expected=8.800000
+date=2018-11-17, predicted=8.800081, expected=8.900000
+date=2018-11-18, predicted=8.917949, expected=8.800000
+date=2018-11-19, predicted=8.797751, expected=8.700000
+date=2018-11-20, predicted=8.671680, expected=8.600000
+date=2018-11-21, predicted=8.588108, expected=8.600000
+date=2018-11-22, predicted=8.587072, expected=8.600000
+date=2018-11-23, predicted=8.597824, expected=8.600000
+date=2018-11-24, predicted=8.596808, expected=8.600000
+date=2018-11-25, predicted=8.602961, expected=8.600000
+date=2018-11-26, predicted=8.598468, expected=8.600000
+date=2018-11-27, predicted=8.598473, expected=8.650000
+date=2018-11-28, predicted=8.656474, expected=8.700000
+date=2018-11-29, predicted=8.707472, expected=8.700000
+date=2018-11-30, predicted=8.699081, expected=8.600000
+date=2018-12-01, predicted=8.585265, expected=8.600000
+date=2018-12-02, predicted=8.597652, expected=8.600000
+date=2018-12-03, predicted=8.597309, expected=8.600000
+date=2018-12-04, predicted=8.592344, expected=8.500000
+date=2018-12-05, predicted=8.487022, expected=8.500000
+date=2018-12-06, predicted=8.496600, expected=8.600000
+date=2018-12-07, predicted=8.615333, expected=8.600000
+date=2018-12-08, predicted=8.593845, expected=8.800000
+date=2018-12-09, predicted=8.833884, expected=8.800000
+date=2018-12-10, predicted=8.808644, expected=8.800000
+date=2018-12-11, predicted=8.792428, expected=8.700000
+date=2018-12-12, predicted=8.695273, expected=8.600000
+date=2018-12-13, predicted=8.571974, expected=8.600000
+date=2018-12-14, predicted=8.597989, expected=8.600000
+date=2018-12-15, predicted=8.593863, expected=8.600000
+date=2018-12-16, predicted=8.597113, expected=8.600000
+date=2018-12-17, predicted=8.603010, expected=8.600000
+date=2018-12-18, predicted=8.598552, expected=8.600000
+date=2018-12-19, predicted=8.598556, expected=8.600000
+date=2018-12-20, predicted=8.598560, expected=8.500000
+date=2018-12-21, predicted=8.482612, expected=8.400000
+date=2018-12-22, predicted=8.380562, expected=8.400000
+date=2018-12-23, predicted=8.397601, expected=8.400000
+date=2018-12-24, predicted=8.393453, expected=8.400000
+date=2018-12-25, predicted=8.396702, expected=8.400000
+date=2018-12-26, predicted=8.402592, expected=8.400000
+date=2018-12-27, predicted=8.398128, expected=8.400000
+date=2018-12-28, predicted=8.398134, expected=8.400000
+date=2018-12-29, predicted=8.398139, expected=8.400000
+date=2018-12-30, predicted=8.398144, expected=8.400000
+date=2018-12-31, predicted=8.398149, expected=8.400000
+date=2019-01-01, predicted=8.398154, expected=8.400000
+date=2019-01-02, predicted=8.398159, expected=8.400000
+date=2019-01-03, predicted=8.398164, expected=8.400000
+date=2019-01-04, predicted=8.398169, expected=8.400000
+date=2019-01-05, predicted=8.398174, expected=8.400000
+date=2019-01-06, predicted=8.398179, expected=8.500000
+date=2019-01-07, predicted=8.514189, expected=8.500000
+date=2019-01-08, predicted=8.500148, expected=8.600000
+date=2019-01-09, predicted=8.613155, expected=8.600000
+date=2019-01-10, predicted=8.606365, expected=8.600000
+date=2019-01-11, predicted=8.592934, expected=8.700000
+date=2019-01-12, predicted=8.720466, expected=8.800000
+date=2019-01-13, predicted=8.812346, expected=8.950000
+date=2019-01-14, predicted=8.974049, expected=8.950000
+date=2019-01-15, predicted=8.957010, expected=9.100000
+date=2019-01-16, predicted=9.123648, expected=9.000000
+date=2019-01-17, predicted=8.991632, expected=9.000000
+date=2019-01-18, predicted=8.988974, expected=8.700000
+date=2019-01-19, predicted=8.662692, expected=8.700000
+date=2019-01-20, predicted=8.678192, expected=8.700000
+date=2019-01-21, predicted=8.708808, expected=8.700000
+date=2019-01-22, predicted=8.680598, expected=8.400000
+date=2019-01-23, predicted=8.365960, expected=8.200000
+date=2019-01-24, predicted=8.158846, expected=8.200000
+date=2019-01-25, predicted=8.198905, expected=7.900000
+date=2019-01-26, predicted=7.831916, expected=7.800000
+date=2019-01-27, predicted=7.773028, expected=7.800000
+date=2019-01-28, predicted=7.806613, expected=7.800000
+date=2019-01-29, predicted=7.777979, expected=7.800000
+date=2019-01-30, predicted=7.803874, expected=7.700000
+date=2019-01-31, predicted=7.685250, expected=7.600000
+Test MSE: 0.020
+
+不追加
+
+date=2018-08-29, predicted=9.582275, expected=9.200000
+date=2018-08-30, predicted=9.135108, expected=8.600000
+date=2018-08-31, predicted=8.496904, expected=8.600000
+date=2018-09-01, predicted=8.542884, expected=8.600000
+date=2018-09-02, predicted=8.583284, expected=8.750000
+date=2018-09-03, predicted=8.730423, expected=8.750000
+date=2018-09-04, predicted=8.769257, expected=8.900000
+date=2018-09-05, predicted=8.911919, expected=9.000000
+date=2018-09-06, predicted=9.033511, expected=9.200000
+date=2018-09-07, predicted=9.224036, expected=9.500000
+date=2018-09-08, predicted=9.563667, expected=9.550000
+date=2018-09-09, predicted=9.580995, expected=9.550000
+date=2018-09-10, predicted=9.558672, expected=9.550000
+date=2018-09-11, predicted=9.566410, expected=9.600000
+date=2018-09-12, predicted=9.604949, expected=9.500000
+date=2018-09-13, predicted=9.491200, expected=9.600000
+date=2018-09-14, predicted=9.603886, expected=9.900000
+date=2018-09-15, predicted=9.954758, expected=10.000000
+date=2018-09-16, predicted=10.028335, expected=10.000000
+date=2018-09-17, predicted=10.011680, expected=10.000000
+date=2018-09-18, predicted=10.018717, expected=10.000000
+date=2018-09-19, predicted=10.002267, expected=10.200000
+date=2018-09-20, predicted=10.227079, expected=10.600000
+date=2018-09-21, predicted=10.674691, expected=11.000000
+date=2018-09-22, predicted=11.092628, expected=10.900000
+date=2018-09-23, predicted=10.921798, expected=10.150000
+date=2018-09-24, predicted=10.025230, expected=10.150000
+date=2018-09-25, predicted=10.147945, expected=10.150000
+date=2018-09-26, predicted=10.186817, expected=9.400000
+date=2018-09-27, predicted=9.238149, expected=9.400000
+date=2018-09-28, predicted=9.407631, expected=9.600000
+date=2018-09-29, predicted=9.622307, expected=9.600000
+date=2018-09-30, predicted=9.559177, expected=9.400000
+date=2018-10-01, predicted=9.421539, expected=9.200000
+date=2018-10-02, predicted=9.181695, expected=8.950000
+date=2018-10-03, predicted=8.897161, expected=8.950000
+date=2018-10-04, predicted=8.929323, expected=8.950000
+date=2018-10-05, predicted=8.943856, expected=8.950000
+date=2018-10-06, predicted=8.941522, expected=8.950000
+date=2018-10-07, predicted=8.960607, expected=8.950000
+date=2018-10-08, predicted=8.949210, expected=8.950000
+date=2018-10-09, predicted=8.949213, expected=8.700000
+date=2018-10-10, predicted=8.661643, expected=8.500000
+date=2018-10-11, predicted=8.462405, expected=8.400000
+date=2018-10-12, predicted=8.377099, expected=8.600000
+date=2018-10-13, predicted=8.609850, expected=8.750000
+date=2018-10-14, predicted=8.773978, expected=8.750000
+date=2018-10-15, predicted=8.753020, expected=8.750000
+date=2018-10-16, predicted=8.765604, expected=8.750000
+date=2018-10-17, predicted=8.749498, expected=8.900000
+date=2018-10-18, predicted=8.915846, expected=9.000000
+date=2018-10-19, predicted=9.017419, expected=9.000000
+date=2018-10-20, predicted=9.000511, expected=9.000000
+date=2018-10-21, predicted=9.008958, expected=9.000000
+date=2018-10-22, predicted=8.999929, expected=8.900000
+date=2018-10-23, predicted=8.879469, expected=8.900000
+date=2018-10-24, predicted=8.897396, expected=8.800000
+date=2018-10-25, predicted=8.783809, expected=8.600000
+date=2018-10-26, predicted=8.558869, expected=8.600000
+date=2018-10-27, predicted=8.599234, expected=8.600000
+date=2018-10-28, predicted=8.592236, expected=8.700000
+date=2018-10-29, predicted=8.705431, expected=8.800000
+date=2018-10-30, predicted=8.824632, expected=9.000000
+date=2018-10-31, predicted=9.032429, expected=8.900000
+date=2018-11-01, predicted=8.893014, expected=8.900000
+date=2018-11-02, predicted=8.898081, expected=8.900000
+date=2018-11-03, predicted=8.907691, expected=8.900000
+date=2018-11-04, predicted=8.883729, expected=8.850000
+date=2018-11-05, predicted=8.845836, expected=8.800000
+date=2018-11-06, predicted=8.790174, expected=8.700000
+date=2018-11-07, predicted=8.682329, expected=8.600000
+date=2018-11-08, predicted=8.577877, expected=8.600000
+date=2018-11-09, predicted=8.596088, expected=8.600000
+date=2018-11-10, predicted=8.594800, expected=8.700000
+date=2018-11-11, predicted=8.712642, expected=8.800000
+date=2018-11-12, predicted=8.821166, expected=8.700000
+date=2018-11-13, predicted=8.684232, expected=8.600000
+date=2018-11-14, predicted=8.586527, expected=8.600000
+date=2018-11-15, predicted=8.598881, expected=8.800000
+date=2018-11-16, predicted=8.820361, expected=8.800000
+date=2018-11-17, predicted=8.799952, expected=8.900000
+date=2018-11-18, predicted=8.917807, expected=8.800000
+date=2018-11-19, predicted=8.797732, expected=8.700000
+date=2018-11-20, predicted=8.671635, expected=8.600000
+date=2018-11-21, predicted=8.588148, expected=8.600000
+date=2018-11-22, predicted=8.587050, expected=8.600000
+date=2018-11-23, predicted=8.597780, expected=8.600000
+date=2018-11-24, predicted=8.596735, expected=8.600000
+date=2018-11-25, predicted=8.602909, expected=8.600000
+date=2018-11-26, predicted=8.598415, expected=8.600000
+date=2018-11-27, predicted=8.598420, expected=8.650000
+date=2018-11-28, predicted=8.656411, expected=8.700000
+date=2018-11-29, predicted=8.707396, expected=8.700000
+date=2018-11-30, predicted=8.698999, expected=8.600000
+date=2018-12-01, predicted=8.585227, expected=8.600000
+date=2018-12-02, predicted=8.597634, expected=8.600000
+date=2018-12-03, predicted=8.597286, expected=8.600000
+date=2018-12-04, predicted=8.592271, expected=8.500000
+date=2018-12-05, predicted=8.486990, expected=8.500000
+date=2018-12-06, predicted=8.496574, expected=8.600000
+date=2018-12-07, predicted=8.615294, expected=8.600000
+date=2018-12-08, predicted=8.593749, expected=8.800000
+date=2018-12-09, predicted=8.833761, expected=8.800000
+date=2018-12-10, predicted=8.808561, expected=8.800000
+date=2018-12-11, predicted=8.792311, expected=8.700000
+date=2018-12-12, predicted=8.695283, expected=8.600000
+date=2018-12-13, predicted=8.571963, expected=8.600000
+date=2018-12-14, predicted=8.597993, expected=8.600000
+date=2018-12-15, predicted=8.593822, expected=8.600000
+date=2018-12-16, predicted=8.597043, expected=8.600000
+date=2018-12-17, predicted=8.602961, expected=8.600000
+date=2018-12-18, predicted=8.598502, expected=8.600000
+date=2018-12-19, predicted=8.598506, expected=8.600000
+date=2018-12-20, predicted=8.598510, expected=8.500000
+date=2018-12-21, predicted=8.482581, expected=8.400000
+date=2018-12-22, predicted=8.380555, expected=8.400000
+date=2018-12-23, predicted=8.397605, expected=8.400000
+date=2018-12-24, predicted=8.393413, expected=8.400000
+date=2018-12-25, predicted=8.396635, expected=8.400000
+date=2018-12-26, predicted=8.402545, expected=8.400000
+date=2018-12-27, predicted=8.398080, expected=8.400000
+date=2018-12-28, predicted=8.398086, expected=8.400000
+date=2018-12-29, predicted=8.398091, expected=8.400000
+date=2018-12-30, predicted=8.398096, expected=8.400000
+date=2018-12-31, predicted=8.398101, expected=8.400000
+predicted=8.398107
+predicted=8.395910
+predicted=8.396188
+predicted=8.393701
+predicted=8.394201
+predicted=8.391545
+predicted=8.392228
+predicted=8.389404
+predicted=8.390255
+predicted=8.387274
+predicted=8.388289
+predicted=8.385148
+predicted=8.386332
+predicted=8.383023
+predicted=8.384385
+predicted=8.380900
+predicted=8.382450
+predicted=8.378776
+predicted=8.380527
+predicted=8.376651
+predicted=8.378617
+predicted=8.374524
+predicted=8.376722
+predicted=8.372394
+predicted=8.374840
+predicted=8.370260
+predicted=8.372974
+predicted=8.368123
+predicted=8.371124
+predicted=8.365980
+predicted=8.369290

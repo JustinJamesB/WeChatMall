@@ -1,0 +1,172 @@
+菜花
+craftName=%E8%8F%9C%E8%8A%B1&craftIndex=13514&eudName=%E4%BD%9B%E5%B1%B1%E4%B8%AD%E5%8D%97%E5%86%9C%E4%BA%A7%E5%93%81%E4%BA%A4%E6%98%93%E4%B8%AD%E5%BF%83&queryDateType=4&timeRange=2019-01-03+~+2019-07-26&pageNo=2
+
+芥菜
+craftName=%E8%8A%A5%E8%8F%9C&craftIndex=13373&eudName=%E4%BD%9B%E5%B1%B1%E4%B8%AD%E5%8D%97%E5%86%9C%E4%BA%A7%E5%93%81%E4%BA%A4%E6%98%93%E4%B8%AD%E5%BF%83&queryDateType=2&timeRange=&pageNo=2
+
+追加
+date=2021-02-27, predicted=3.295882, expected=3.300000
+date=2021-03-01, predicted=3.295989, expected=3.300000
+date=2021-03-02, predicted=3.296090, expected=3.300000
+date=2021-03-03, predicted=3.296186, expected=3.300000
+date=2021-03-04, predicted=3.296277, expected=3.300000
+date=2021-03-05, predicted=3.296364, expected=3.300000
+date=2021-03-06, predicted=3.296447, expected=3.300000
+date=2021-03-08, predicted=3.296526, expected=3.300000
+date=2021-03-09, predicted=3.296602, expected=3.300000
+date=2021-03-10, predicted=3.296674, expected=3.300000
+date=2021-03-11, predicted=3.296744, expected=3.300000
+date=2021-03-12, predicted=3.296810, expected=3.300000
+date=2021-03-13, predicted=3.296874, expected=3.300000
+date=2021-03-15, predicted=3.296935, expected=3.300000
+date=2021-03-16, predicted=3.296994, expected=3.300000
+date=2021-03-17, predicted=3.297051, expected=3.000000
+date=2021-03-18, predicted=3.000446, expected=3.000000
+date=2021-03-19, predicted=2.963608, expected=3.000000
+date=2021-03-20, predicted=2.964668, expected=3.000000
+date=2021-03-23, predicted=2.998619, expected=3.000000
+date=2021-03-24, predicted=2.920935, expected=3.000000
+date=2021-03-25, predicted=2.992276, expected=3.000000
+Test MSE: 0.004
+
+不追加
+
+
+date=2021-02-27, predicted=3.295989, expected=3.300000
+date=2021-03-01, predicted=3.296090, expected=3.300000
+date=2021-03-02, predicted=3.296186, expected=3.300000
+date=2021-03-03, predicted=3.296277, expected=3.300000
+date=2021-03-04, predicted=3.296364, expected=3.300000
+date=2021-03-05, predicted=3.296447, expected=3.300000
+date=2021-03-06, predicted=3.296526, expected=3.300000
+date=2021-03-08, predicted=3.296602, expected=3.300000
+date=2021-03-09, predicted=3.296675, expected=3.300000
+date=2021-03-10, predicted=3.296744, expected=3.300000
+date=2021-03-11, predicted=3.296810, expected=3.300000
+date=2021-03-12, predicted=3.296874, expected=3.300000
+date=2021-03-13, predicted=3.296935, expected=3.300000
+date=2021-03-15, predicted=3.296994, expected=3.300000
+date=2021-03-16, predicted=3.297051, expected=3.300000
+date=2021-03-17, predicted=3.297106, expected=3.000000
+date=2021-03-18, predicted=3.000524, expected=3.000000
+date=2021-03-19, predicted=2.963654, expected=3.000000
+date=2021-03-20, predicted=2.964704, expected=3.000000
+date=2021-03-23, predicted=2.998691, expected=3.000000
+date=2021-03-24, predicted=2.920843, expected=3.000000
+date=2021-03-25, predicted=2.992419, expected=3.000000
+predicted=2.992557
+predicted=2.985152
+predicted=2.984804
+predicted=2.977599
+predicted=2.977376
+predicted=2.969084
+predicted=2.970073
+predicted=2.960759
+predicted=2.962734
+predicted=2.952603
+predicted=2.955535
+predicted=2.944393
+predicted=2.948618
+predicted=2.936157
+predicted=2.941917
+predicted=2.927942
+predicted=2.935411
+predicted=2.919726
+predicted=2.929128
+predicted=2.911482
+predicted=2.923063
+predicted=2.903220
+predicted=2.917184
+predicted=2.894969
+predicted=2.911441
+predicted=2.886775
+predicted=2.905760
+predicted=2.878719
+predicted=2.900028
+predicted=2.870918
+predicted=2.894098
+
+
+羊肉
+craftName=%E7%BE%8A%E8%82%89&craftIndex=13237&eudName=%E4%BD%9B%E5%B1%B1%E4%B8%AD%E5%8D%97%E5%86%9C%E4%BA%A7%E5%93%81%E4%BA%A4%E6%98%93%E4%B8%AD%E5%BF%83&queryDateType=2&timeRange=&pageNo=2
+
+
+不追加
+
+date=2021-03-01, predicted=74.868301, expected=74.600000
+date=2021-03-02, predicted=74.804223, expected=74.600000
+date=2021-03-03, predicted=74.737093, expected=74.600000
+date=2021-03-04, predicted=74.749106, expected=74.600000
+date=2021-03-05, predicted=74.744896, expected=74.600000
+date=2021-03-06, predicted=74.740921, expected=74.600000
+date=2021-03-08, predicted=74.737161, expected=74.600000
+date=2021-03-09, predicted=74.733600, expected=74.600000
+date=2021-03-10, predicted=74.730221, expected=74.500000
+date=2021-03-11, predicted=74.657868, expected=74.400000
+date=2021-03-12, predicted=74.565324, expected=74.400000
+date=2021-03-13, predicted=74.535077, expected=74.400000
+date=2021-03-15, predicted=74.519848, expected=74.400000
+date=2021-03-16, predicted=74.506325, expected=74.400000
+date=2021-03-17, predicted=74.501861, expected=74.400000
+date=2021-03-18, predicted=74.503373, expected=74.400000
+date=2021-03-19, predicted=74.501238, expected=74.400000
+date=2021-03-20, predicted=74.499190, expected=74.200000
+date=2021-03-23, predicted=74.358147, expected=74.200000
+date=2021-03-24, predicted=74.316125, expected=74.200000
+date=2021-03-25, predicted=74.299963, expected=74.100000
+predicted=74.217987
+predicted=74.325288
+predicted=74.308214
+predicted=74.374251
+predicted=74.380936
+predicted=74.441083
+predicted=74.448218
+predicted=74.503338
+predicted=74.517068
+predicted=74.564383
+predicted=74.584612
+predicted=74.626148
+predicted=74.649844
+predicted=74.688192
+predicted=74.713811
+predicted=74.749866
+predicted=74.776865
+predicted=74.811079
+predicted=74.839026
+predicted=74.871869
+predicted=74.900354
+predicted=74.932187
+predicted=74.960946
+predicted=74.991995
+predicted=75.020864
+predicted=75.051283
+predicted=75.080151
+predicted=75.110053
+predicted=75.138841
+predicted=75.168308
+predicted=75.196965
+
+追加
+date=2021-03-01, predicted=74.870817, expected=74.600000
+date=2021-03-02, predicted=74.806644, expected=74.600000
+date=2021-03-03, predicted=74.739241, expected=74.600000
+date=2021-03-04, predicted=74.750606, expected=74.600000
+date=2021-03-05, predicted=74.746255, expected=74.600000
+date=2021-03-06, predicted=74.742153, expected=74.600000
+date=2021-03-08, predicted=74.738279, expected=74.600000
+date=2021-03-09, predicted=74.734613, expected=74.600000
+date=2021-03-10, predicted=74.731139, expected=74.500000
+date=2021-03-11, predicted=74.658614, expected=74.400000
+date=2021-03-12, predicted=74.565918, expected=74.400000
+date=2021-03-13, predicted=74.535608, expected=74.400000
+date=2021-03-15, predicted=74.520335, expected=74.400000
+date=2021-03-16, predicted=74.506775, expected=74.400000
+date=2021-03-17, predicted=74.502251, expected=74.400000
+date=2021-03-18, predicted=74.503703, expected=74.400000
+date=2021-03-19, predicted=74.501525, expected=74.400000
+date=2021-03-20, predicted=74.499437, expected=74.200000
+date=2021-03-23, predicted=74.358260, expected=74.200000
+date=2021-03-24, predicted=74.316202, expected=74.200000
+date=2021-03-25, predicted=74.300015, expected=74.100000
+Test MSE: 0.030
+

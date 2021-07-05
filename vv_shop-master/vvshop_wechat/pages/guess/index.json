@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "cpn":"/pages/guessCpn/guessCpn"
+  },
+  "navigationBarTitleText": "价格预测"
+}

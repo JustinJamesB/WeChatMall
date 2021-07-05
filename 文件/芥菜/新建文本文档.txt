@@ -1,0 +1,36 @@
+≤Àª®
+craftName=%E8%8F%9C%E8%8A%B1&craftIndex=13514&eudName=%E4%BD%9B%E5%B1%B1%E4%B8%AD%E5%8D%97%E5%86%9C%E4%BA%A7%E5%93%81%E4%BA%A4%E6%98%93%E4%B8%AD%E5%BF%83&queryDateType=4&timeRange=2019-01-03+~+2019-07-26&pageNo=2
+
+ΩÊ≤À
+craftName=%E8%8A%A5%E8%8F%9C&craftIndex=13373&eudName=%E4%BD%9B%E5%B1%B1%E4%B8%AD%E5%8D%97%E5%86%9C%E4%BA%A7%E5%93%81%E4%BA%A4%E6%98%93%E4%B8%AD%E5%BF%83&queryDateType=2&timeRange=&pageNo=2
+
+date=2021-02-27, predicted=3.295882, expected=3.300000
+date=2021-03-01, predicted=3.295989, expected=3.300000
+date=2021-03-02, predicted=3.296090, expected=3.300000
+date=2021-03-03, predicted=3.296186, expected=3.300000
+date=2021-03-04, predicted=3.296277, expected=3.300000
+date=2021-03-05, predicted=3.296364, expected=3.300000
+date=2021-03-06, predicted=3.296447, expected=3.300000
+date=2021-03-08, predicted=3.296526, expected=3.300000
+date=2021-03-09, predicted=3.296602, expected=3.300000
+date=2021-03-10, predicted=3.296674, expected=3.300000
+date=2021-03-11, predicted=3.296744, expected=3.300000
+date=2021-03-12, predicted=3.296810, expected=3.300000
+date=2021-03-13, predicted=3.296874, expected=3.300000
+date=2021-03-15, predicted=3.296935, expected=3.300000
+date=2021-03-16, predicted=3.296994, expected=3.300000
+date=2021-03-17, predicted=3.297051, expected=3.000000
+date=2021-03-18, predicted=3.000446, expected=3.000000
+date=2021-03-19, predicted=2.963608, expected=3.000000
+date=2021-03-20, predicted=2.964668, expected=3.000000
+date=2021-03-23, predicted=2.998619, expected=3.000000
+date=2021-03-24, predicted=2.920935, expected=3.000000
+date=2021-03-25, predicted=2.992276, expected=3.000000
+Test MSE: 0.004
+
+
+
+
+—Ú»‚
+craftName=%E7%BE%8A%E8%82%89&craftIndex=13237&eudName=%E4%BD%9B%E5%B1%B1%E4%B8%AD%E5%8D%97%E5%86%9C%E4%BA%A7%E5%93%81%E4%BA%A4%E6%98%93%E4%B8%AD%E5%BF%83&queryDateType=2&timeRange=&pageNo=2
+

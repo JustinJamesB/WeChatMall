@@ -1,0 +1,98 @@
+<!-- 导航选择栏 -->
+<view class="guess-header">
+  <block wx:for="{{header}}" wx:key="{{index}}">
+  <view class="guess-header-item {{currentIndex == index ? 'header-active' : ''}}"
+        data-item="{{item}}"
+        data-index="{{index}}"
+        bind:tap="handleHeader"><text>{{item}}</text></view>
+  </block>
+</view>
+
+<!-- 物品选择栏1 -->
+<view class="guess-choose" wx:if="{{currentIndex ==0}}">
+  <picker bindchange="handleChoose" 
+          mode="selector" 
+          value="{{index}}" 
+          range="{{choose1}}"
+          data-item="{{item}}"
+          data-index="{{index}}">
+    <view class="guess-choose-picker">
+      <text>菜类选择</text>
+      {{choose1[che]}}
+    </view>
+  </picker>
+</view>
+
+<!-- 物品选择栏2 -->
+<view class="guess-choose"  wx:if="{{currentIndex == 1}}">
+  <picker bindchange="handleChoose" 
+          mode="selector" 
+          value="{{index}}" 
+          range="{{choose2}}"
+          data-item="{{item}}"
+          data-index="{{index}}">
+    <view class="guess-choose-picker">
+      <text>菜类选择</text>
+      {{choose2[che]}}
+    </view>
+  </picker>
+</view>
+
+<!-- 物品选择栏3 -->
+<view class="guess-choose"  wx:if="{{currentIndex == 2}}">
+  <picker bindchange="handleChoose" 
+          mode="selector" 
+          value="{{index}}" 
+          range="{{choose3}}"
+          data-item="{{item}}"
+          data-index="{{index}}">
+    <view class="guess-choose-picker">
+      <text>菜类选择</text>
+      {{choose3[che]}}
+    </view>
+  </picker>
+</view>
+
+<!-- 物品选择栏4 -->
+<view class="guess-choose"  wx:if="{{currentIndex == 3}}">
+  <picker bindchange="handleChoose" 
+          mode="selector" 
+          value="{{index}}" 
+          range="{{choose3}}"
+          data-item="{{item}}"
+          data-index="{{index}}">
+    <view class="guess-choose-picker">
+      <text>菜类选择</text>
+      {{choose3[che]}}
+    </view>
+  </picker>
+</view>
+
+<!-- 预测图显示 -->
+<view class="data-image" wx:if="{{currentIndex ==0}}">
+  <image src="{{img[che]}}"
+         data-item="{{item}}"
+         data-index="{{index}}"></image>
+</view>
+
+<view class="data-image" wx:if="{{currentIndex ==1}}">
+  <image src="{{img1[che]}}"
+         data-item="{{item}}"
+         data-index="{{index}}"></image>
+</view>
+
+<!-- 文字描述栏 -->
+<view class="data-zi" wx:if="{{currentIndex ==0}}">
+  <text>{{dataItem[che]}}</text>
+</view>
+
+<view class="data-zi" wx:if="{{currentIndex ==1}}">
+  <text>{{dataItem1[che]}}</text>
+</view>
+
+<view class="bottom">
+  <view class="bottom1">
+    <image src="../../images/tabBar/叉叉.png"
+           bind:tap="handleDelete"></image>
+  </view>
+</view>

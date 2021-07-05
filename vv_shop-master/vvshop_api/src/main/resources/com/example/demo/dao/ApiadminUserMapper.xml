@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.example.demo.dao.ApiadminUserMapper">
+
+    <!--    管理员登录验证-->
+    <select id="getadminUser" resultType="java.lang.Integer" parameterType="java.lang.String">
+        select  count(*) from `admin_user` where `username`=#{username} and `password`=#{password}
+    </select>
+
+    <select id="getallUser" resultType="com.example.demo.entity.UserVo">
+        select * from `shop_user`
+    </select>
+
+    <delete id="deleteOneUser" parameterType="java.lang.Integer">
+        delete from `shop_user` where user_id=#{user_id}
+    </delete>
+
+</mapper>
