@@ -23,13 +23,13 @@ public class OSSClientUtil {
     Log log = LogFactory.getLog(OSSClientUtil.class);
 
     //阿里云OSS地址，这里看根据你的oss选择
-    protected static String endpoint = "http://oss-cn-hongkong.aliyuncs.com";
+    protected static String endpoint = "";
     //阿里云OSS账号
-    protected static String accessKeyId  = "LTAI4GDRuer7CbcUjncN1xa2";
+    protected static String accessKeyId  = "";
     //阿里云OSS密钥
-    protected static String accessKeySecret  = "rrHlPjKp7PigsDLqfiXsLCAnH6P9IH";
+    protected static String accessKeySecret  = "";
     //阿里云OSS上的存储块bucket名字
-    protected static String bucketName  = "minshopimage";
+    protected static String bucketName  = "";
 
     //阿里云图片文件存储目录
     private String homeimagedir = "myshop/homephoto/";
